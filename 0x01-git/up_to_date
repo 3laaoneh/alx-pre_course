@@ -1,3 +1,1 @@
-vi name of file 
-git push -u origin main
-echo echo > up_to_date
+git pull origin main
